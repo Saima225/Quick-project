@@ -1,0 +1,1442 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+margin-bottom: 30px;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+nav{
+
+width: 50%;
+
+float: right;
+
+overflow: hidden;
+}
+nav ul{
+    
+list-style: none;
+    
+float: right;
+
+overflow: hidden;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 60px;
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+font-size: 25px;
+    
+color: #948f8f;
+}
+.front-section{
+
+width: 90%;
+
+text-align: center;
+
+margin-left: 5%;
+}
+.front-section img{
+    
+width: 98%;
+    
+margin-left: 1%;
+}
+.front-section h4{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 50px;
+    
+color: #dad5d5;
+    
+font-size: medium;
+    
+font-weight: 100;
+}
+.front-section h1{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #737373;
+    
+font-weight: 200;
+}
+.front-section p{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #9E9E9E;
+    
+text-size-adjust: auto;
+}
+.front-section h3{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #E8E8E8;
+    
+font-weight: 100;
+    
+margin-bottom: 50px;
+}
+.lifestyle-photos{
+
+width: 90%;
+
+overflow: hidden;
+
+margin-left: 10%;
+}
+.lifestyle-one{
+
+width: 40%;
+
+float: left;
+
+text-align: center;
+}
+.lifestyle-one img{
+
+}
+.lifestyle-one h3{
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+color: #efe8e8;
+    
+font-weight: 100;
+    
+margin-top: 10px;
+}
+.lifestyle-one h1 {
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #AFAFAF;
+    
+font-weight: 500;
+    
+font-size: 30px;
+}
+.lifestyle-one p{
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #C6C6C6;
+    
+font-size: 18px;
+}
+.lifestyle-two{
+    
+width: 40%;
+    
+float: right;
+    
+margin-right: 20%;
+    
+text-align: center;
+}
+.lifestyle-two img{
+
+width: 85%;
+}
+.lifestyle-two h3{
+    text-align: left;
+    
+margin-left: 8%;
+    
+color: #efe8e8;
+    
+font-weight: 100;
+    
+margin-top: 10px;
+}
+.lifestyle-two h1 {
+    text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #AFAFAF;
+    
+font-weight: 500;
+    
+font-size: 30px;
+}
+.lifestyle-two p{
+    text-align: left;
+    margin-left: 8%;
+    margin-top: 20px;
+    color: #C6C6C6;
+    font-size: 18px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+margin-bottom: 30px;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+nav{
+
+width: 50%;
+
+float: right;
+
+overflow: hidden;
+}
+nav ul{
+    
+list-style: none;
+    
+float: right;
+
+overflow: hidden;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 60px;
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+font-size: 25px;
+    
+color: #948f8f;
+}
+.front-section{
+
+width: 90%;
+
+text-align: center;
+
+margin-left: 5%;
+}
+.front-section img{
+    
+width: 98%;
+    
+margin-left: 1%;
+}
+.front-section h4{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 50px;
+    
+color: #dad5d5;
+    
+font-size: medium;
+    
+font-weight: 100;
+}
+.front-section h1{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #737373;
+    
+font-weight: 200;
+}
+.front-section p{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #9E9E9E;
+    
+text-size-adjust: auto;
+}
+.front-section h3{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #E8E8E8;
+    
+font-weight: 100;
+    
+margin-bottom: 50px;
+}
+.lifestyle-section{
+
+width: 90%;
+
+overflow: hidden;
+
+margin-left: 10%;
+}
+.lifestyle-one{
+
+width: 40%;
+
+float: left;
+
+text-align: center;
+}
+.lifestyle-one img{
+
+}
+.lifestyle-one h3{
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+color: #efe8e8;
+    
+font-weight: 100;
+    
+margin-top: 10px;
+}
+.lifestyle-one h1 {
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #AFAFAF;
+    
+font-weight: 500;
+    
+font-size: 30px;
+}
+.lifestyle-one p{
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #C6C6C6;
+    
+font-size: 18px;
+}
+.lifestyle-two{
+    
+width: 40%;
+    
+float: right;
+    
+margin-right: 20%;
+    
+text-align: center;
+}
+.lifestyle-two img{
+
+width: 85%;
+}
+.lifestyle-two h3{
+    text-align: left;
+    
+margin-left: 8%;
+    
+color: #efe8e8;
+    
+font-weight: 100;
+    
+margin-top: 10px;
+}
+.lifestyle-two h1 {
+    text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #AFAFAF;
+    
+font-weight: 500;
+    
+font-size: 30px;
+}
+.lifestyle-two p{
+    text-align: left;
+    margin-left: 8%;
+    margin-top: 20px;
+    color: #C6C6C6;
+    font-size: 18px;
+}
+.photodiary-section{
+    width: 90%;
+    overflow: hidden;
+    margin-left: 5%;
+    /* text-align: center; */
+    /* margin-top: 20px; */
+}
+.photodiary-one{
+    width: 40%;
+    float: left;
+    /* margin-left: 5%; */
+    text-align: left;
+}
+.photodiary-one img{
+    
+width: 95%;
+    
+margin-top: 60px;
+    
+text-align: left;
+}
+.photodiary-one h3{
+    text-align: left;
+    /* margin-left: 5%; */
+    color: #efe8e8;
+    font-weight: 100;
+    margin-top: 10px;
+} 
+.photodiary-one h1{
+    text-align: left;
+    /* margin-left: 8%; */
+    margin-top: 20px;
+    color: #AFAFAF;
+    font-weight: 500;
+    font-size: 30px;
+}
+.photodiary-one p{
+        
+text-align: left;
+        
+/* margin-left: 8%; */
+        
+margin-top: 20px;
+        
+color: #C6C6C6;
+        
+font-size: 18px;
+}
+.photodiary-two{
+    width: 40%;
+    float: right;
+    margin-right: 18%;
+    text-align: center;
+}
+.photodiary-two img{
+    
+margin-top: 60px;
+    
+width: 94%;
+}
+.photodiary-two h3{
+    text-align: left;
+    margin-left: 3%;
+    color: #efe8e8;
+    font-weight: 100;
+    margin-top: 10px;
+} 
+.photodiary-two h1{
+    text-align: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    color: #AFAFAF;
+    font-weight: 500;
+    font-size: 30px;
+}
+.photodiary-two p{
+    text-align: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    color: #C6C6C6;
+    font-size: 18px;
+}
+.sign-up{
+
+width: 100%;
+
+background-color: #F1F1F1;
+
+padding: 80px 0;
+
+/* border-bottom: 2px solid black; */
+
+margin-top: 70px;
+}
+.sign-up h1{
+    
+text-align: center;
+    
+text-transform: capitalize;
+    
+font-size: 40px;
+    
+color: black;
+}
+.sign-up h4{
+    
+text-align: center;
+    
+color: #7C7C7C;
+    
+margin: 30px 0;
+    
+margin-right: 15%;
+    
+font-size: 20px;
+    
+/* border: none; */
+    
+border-bottom: 2px solid black;
+    
+/* border-bottom-left-radius: 20%; */
+    
+/* border-bottom-right-radius: 20%; */
+    
+/* margin-top: 10%; */
+}
+.photos-section{
+
+width: 90%;
+
+margin-left: 10%;
+
+margin-right: 10%;
+
+overflow: hidden;
+
+margin-top: 80px;
+}
+.content-one{
+
+width: 40%;
+
+float: left;
+
+margin-left: 5%;
+}
+.content-one img{
+    
+width: 85%;
+}
+.content-one h3{
+    
+margin-top: 20px;
+    
+color: #DCDCDC;
+    
+font-weight: 500;
+}
+.content-one h1{
+    
+margin-top: 20px;
+    
+color: #727272;
+    
+font-size: 40px;
+    
+font-weight: 200;
+    
+text-align: left;
+}
+.content-one p{
+    
+color: #959595;
+    
+margin-top: 20px;
+    
+text-align: left;
+}
+.content-two{margin-right: 15%;width: 40%;float: right;}
+.content-two img{
+    
+/* margin-left: 10%; */
+    
+width: 85%;
+}
+.content-two h3{
+    
+margin-top: 20px;
+    
+color: #DCDCDC;
+    
+font-weight: 500;
+}
+.content-two h1{
+    
+margin-top: 20px;
+    
+color: #727272;
+    
+font-size: 40px;
+    
+font-weight: 200;
+}
+.content-two p{
+    
+color: #959595;
+    
+margin-top: 20px;
+}
+.load{
+    
+text-align: center;
+    
+margin-top: 50px;
+    
+width: 100%;
+    
+margin-bottom: 50px;
+    
+/* color: #949494; */
+}
+button{
+
+width: 20%;
+
+font-size: 30px;
+
+color: #949494;
+}
+.footer-section{
+
+width: 100%;
+
+background-color: #F1F1F1;
+}
+.privacy{
+
+margin-left: 15%;
+}
+.privacy ul{
+    
+list-style: none;
+}
+.privacy ul li{overflow: hidden;}
+.privacy ul li a{
+    
+float: left;
+    
+text-decoration: none;
+}
+.icon{
+
+}
+.icon ul{
+    
+}
+.icon ul li{
+    
+float: left;
+    
+margin-left: 30px;
+    
+font-size: 20px;
+}
+.icon ul li a{
+    
+text-decoration: none;
+    
+color: #5B5B5B;
+}
+.icon ul li a i{
+    
+}*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+margin-bottom: 30px;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+nav{
+
+width: 50%;
+
+float: right;
+
+overflow: hidden;
+}
+nav ul{
+    
+list-style: none;
+    
+float: right;
+
+overflow: hidden;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 60px;
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+font-size: 25px;
+    
+color: #948f8f;
+}
+.front-section{
+
+width: 90%;
+
+text-align: center;
+
+margin-left: 5%;
+}
+.front-section img{
+    
+width: 98%;
+    
+margin-left: 1%;
+}
+.front-section h4{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 50px;
+    
+color: #dad5d5;
+    
+font-size: medium;
+    
+font-weight: 100;
+}
+.front-section h1{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #737373;
+    
+font-weight: 200;
+}
+.front-section p{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #9E9E9E;
+    
+text-size-adjust: auto;
+}
+.front-section h3{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #E8E8E8;
+    
+font-weight: 100;
+    
+margin-bottom: 50px;
+}
+.lifestyle-photos{
+
+width: 90%;
+
+overflow: hidden;
+
+margin-left: 10%;
+}
+.lifestyle-one{
+
+width: 40%;
+
+float: left;
+
+text-align: center;
+}
+.lifestyle-one img{
+
+}
+.lifestyle-one h3{
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+color: #efe8e8;
+    
+font-weight: 100;
+    
+margin-top: 10px;
+}
+.lifestyle-one h1 {
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #AFAFAF;
+    
+font-weight: 500;
+    
+font-size: 30px;
+}
+.lifestyle-one p{
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #C6C6C6;
+    
+font-size: 18px;
+}
+.lifestyle-two{
+    
+width: 40%;
+    
+float: right;
+    
+margin-right: 20%;
+    
+text-align: center;
+}
+.lifestyle-two img{
+
+width: 85%;
+}
+.lifestyle-two h3{
+    text-align: left;
+    
+margin-left: 8%;
+    
+color: #efe8e8;
+    
+font-weight: 100;
+    
+margin-top: 10px;
+}
+.lifestyle-two h1 {
+    text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #AFAFAF;
+    
+font-weight: 500;
+    
+font-size: 30px;
+}
+.lifestyle-two p{
+    text-align: left;
+    margin-left: 8%;
+    margin-top: 20px;
+    color: #C6C6C6;
+    font-size: 18px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+margin-bottom: 30px;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+nav{
+
+width: 50%;
+
+float: right;
+
+overflow: hidden;
+}
+nav ul{
+    
+list-style: none;
+    
+float: right;
+
+overflow: hidden;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 60px;
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+font-size: 25px;
+    
+color: #948f8f;
+}
+.front-section{
+
+width: 90%;
+
+text-align: center;
+
+margin-left: 5%;
+}
+.front-section img{
+    
+width: 98%;
+    
+margin-left: 1%;
+}
+.front-section h4{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 50px;
+    
+color: #dad5d5;
+    
+font-size: medium;
+    
+font-weight: 100;
+}
+.front-section h1{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #737373;
+    
+font-weight: 200;
+}
+.front-section p{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #9E9E9E;
+    
+text-size-adjust: auto;
+}
+.front-section h3{
+    
+text-align: left;
+    
+margin-left: 5%;
+    
+margin-top: 20px;
+    
+color: #E8E8E8;
+    
+font-weight: 100;
+    
+margin-bottom: 50px;
+}
+.lifestyle-section{
+
+width: 90%;
+
+overflow: hidden;
+
+margin-left: 10%;
+}
+.lifestyle-one{
+
+width: 40%;
+
+float: left;
+
+text-align: center;
+}
+.lifestyle-one img{
+
+}
+.lifestyle-one h3{
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+color: #efe8e8;
+    
+font-weight: 100;
+    
+margin-top: 10px;
+}
+.lifestyle-one h1 {
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #AFAFAF;
+    
+font-weight: 500;
+    
+font-size: 30px;
+}
+.lifestyle-one p{
+    
+text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #C6C6C6;
+    
+font-size: 18px;
+}
+.lifestyle-two{
+    
+width: 40%;
+    
+float: right;
+    
+margin-right: 20%;
+    
+text-align: center;
+}
+.lifestyle-two img{
+
+width: 85%;
+}
+.lifestyle-two h3{
+    text-align: left;
+    
+margin-left: 8%;
+    
+color: #efe8e8;
+    
+font-weight: 100;
+    
+margin-top: 10px;
+}
+.lifestyle-two h1 {
+    text-align: left;
+    
+margin-left: 8%;
+    
+margin-top: 20px;
+    
+color: #AFAFAF;
+    
+font-weight: 500;
+    
+font-size: 30px;
+}
+.lifestyle-two p{
+    text-align: left;
+    margin-left: 8%;
+    margin-top: 20px;
+    color: #C6C6C6;
+    font-size: 18px;
+}
+.photodiary-section{
+    width: 90%;
+    overflow: hidden;
+    margin-left: 5%;
+    /* text-align: center; */
+    /* margin-top: 20px; */
+}
+.photodiary-one{
+    width: 40%;
+    float: left;
+    /* margin-left: 5%; */
+    text-align: left;
+}
+.photodiary-one img{
+    
+width: 95%;
+    
+margin-top: 60px;
+    
+text-align: left;
+}
+.photodiary-one h3{
+    text-align: left;
+    /* margin-left: 5%; */
+    color: #efe8e8;
+    font-weight: 100;
+    margin-top: 10px;
+} 
+.photodiary-one h1{
+    text-align: left;
+    /* margin-left: 8%; */
+    margin-top: 20px;
+    color: #AFAFAF;
+    font-weight: 500;
+    font-size: 30px;
+}
+.photodiary-one p{
+        
+text-align: left;
+        
+/* margin-left: 8%; */
+        
+margin-top: 20px;
+        
+color: #C6C6C6;
+        
+font-size: 18px;
+}
+.photodiary-two{
+    width: 40%;
+    float: right;
+    margin-right: 18%;
+    text-align: center;
+}
+.photodiary-two img{
+    
+margin-top: 60px;
+    
+width: 94%;
+}
+.photodiary-two h3{
+    text-align: left;
+    margin-left: 3%;
+    color: #efe8e8;
+    font-weight: 100;
+    margin-top: 10px;
+} 
+.photodiary-two h1{
+    text-align: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    color: #AFAFAF;
+    font-weight: 500;
+    font-size: 30px;
+}
+.photodiary-two p{
+    text-align: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    color: #C6C6C6;
+    font-size: 18px;
+}
+.sign-up{
+
+width: 100%;
+
+background-color: #F1F1F1;
+
+padding: 80px 0;
+
+/* border-bottom: 2px solid black; */
+
+margin-top: 70px;
+}
+.sign-up h1{
+    
+text-align: center;
+    
+text-transform: capitalize;
+    
+font-size: 40px;
+    
+color: black;
+}
+.email{
+
+width: 100%;
+
+/* margin-right: 2px; */
+
+/* margin-left: 20px; */
+}
+.email h3{margin-left: 35%;padding-top: 30px;color: #A4A4A4;font-size: 18px;font-weight: 200;border-bottom: 2px solid black;/* border-bottom-style: none; *//* border-bottom-right-radius: initial; *//* border-bottom-width: thick; *//* border-collapse: collapse; *//* border-block-end: none; */}
+.photos-section{
+
+width: 90%;
+
+margin-left: 10%;
+
+margin-right: 10%;
+
+overflow: hidden;
+
+margin-top: 80px;
+}
+.content-one{
+
+width: 40%;
+
+float: left;
+
+margin-left: 5%;
+}
+.content-one img{
+    
+width: 85%;
+}
+.content-one h3{
+    
+margin-top: 20px;
+    
+color: #DCDCDC;
+    
+font-weight: 500;
+}
+.content-one h1{
+    
+margin-top: 20px;
+    
+color: #727272;
+    
+font-size: 40px;
+    
+font-weight: 200;
+    
+text-align: left;
+}
+.content-one p{
+    
+color: #959595;
+    
+margin-top: 20px;
+    
+text-align: left;
+}
+.content-two{margin-right: 15%;width: 40%;float: right;}
+.content-two img{
+    
+/* margin-left: 10%; */
+    
+width: 85%;
+}
+.content-two h3{
+    
+margin-top: 20px;
+    
+color: #DCDCDC;
+    
+font-weight: 500;
+}
+.content-two h1{
+    
+margin-top: 20px;
+    
+color: #727272;
+    
+font-size: 40px;
+    
+font-weight: 200;
+}
+.content-two p{
+    
+color: #959595;
+    
+margin-top: 20px;
+}
+.load{
+    
+text-align: center;
+    
+margin-top: 50px;
+    
+width: 100%;
+    
+margin-bottom: 50px;
+    
+/* color: #949494; */
+}
+button{
+
+width: 20%;
+
+font-size: 30px;
+
+color: #949494;
+}
+.footer-section{
+
+width: 100%;
+
+background-color: #F1F1F1;
+
+overflow: hidden;
+
+padding-top: 2%;
+
+padding-bottom: 2%;
+
+margin-bottom: 2%;
+}
+.privacy{
+
+margin-left: 15%;
+
+width: 30%;
+
+float: left;
+}
+.privacy ul{
+    
+list-style: none;
+    
+/* float: left; */
+    
+overflow: hidden;
+    
+font-size: 20px;
+    
+/* color: #5B5B5B; */
+}
+.privacy ul li{overflow: hidden;float: left;font-size: 20px;font-weight: 300;}
+.privacy ul li a{
+    
+float: left;
+    
+/* text-decoration: none; */
+    
+margin-left: 30px;
+    
+font-size: 20px;
+    
+font-weight: 400;
+    
+overflow: hidden;
+    
+color: #5B5B5B;
+}
+.icon{
+
+width: 50%;
+
+float: right;
+
+overflow: hidden;
+
+margin-right: 10%;
+
+color: #5B5B5B;
+}
+.icon ul{
+    
+list-style: none;
+    
+float: right;
+    
+overflow: hidden;
+}
+.icon ul li{
+    
+}
+.icon ul li a{
+    
+}
+.icon ul li a i{
+    
+}
